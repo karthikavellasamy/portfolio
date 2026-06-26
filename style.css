@@ -165,3 +165,18 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+.project-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background: linear-gradient(135deg, #7b2ff7, #f107a3);
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.project-btn:hover {
+  opacity: 0.85;
+}
